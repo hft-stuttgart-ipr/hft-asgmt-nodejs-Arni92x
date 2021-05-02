@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-USERNAME)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-Arni92x.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-nodejs-Arni92x)
 
 # hft-asgmt-nodejs
 
